@@ -5,7 +5,6 @@
 </a>
 <a href="https://www.instagram.com/eno_dynowski/"> <!-- instagram -->
 <img align="left" alt = "Eno Dynowski" width="" src="https://img.icons8.com/dusk/48/000000/instagram-new--v1.png"/>
-<script src="https://www.hackthebox.eu/badge/424839"></script>
 </a>
 <a href="https://tryhackme.com/p/ImOedipus"> <!-- THM -->
 <img  alt = "Eno Dynowski" width="165" src="https://tryhackme-badges.s3.amazonaws.com/ImOedipus.png"/>

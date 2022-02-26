@@ -19,7 +19,7 @@ Hi! I'm Eno Dynowski, an undergraduate cybersecurity student and research assist
 
 - 🕵️‍♂️ Digital Forensics Challenges on [HTB](https://www.hackthebox.com/home/challenges/Forensics) and [Cyberdefenders](https://cyberdefenders.org/blueteam-ctf-challenges/)
 - 🛠 Some simple security tools written in Python
-- 🚩 Capture the Flag competitions every weekend
+- 🚩 Capture the Flag competitions on the weekends
 - 🧐 Research regarding website fingerprinting
 
 **What I've been learning about:**

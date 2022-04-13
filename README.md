@@ -13,7 +13,7 @@
 
 <br />
 
-Hi! I'm Eno Dynowski, an undergraduate cybersecurity student and research assistant at Loyola Chicago. I love to do CTF's, blue team challenges, and malware analysis. ❤️
+Hi! I'm Eno Dynowski, an undergraduate cybersecurity student and research assistant at Loyola Chicago. I will be a Platform Security Intern at Tesla, in Fremont CA this summer! I love to do CTF's, blue team challenges, and malware analysis. ❤️
 
 **What I've been up to:**
 

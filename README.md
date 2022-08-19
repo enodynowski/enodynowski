@@ -13,19 +13,19 @@
 
 <br />
 
-Hi! I'm Eno Dynowski, an undergraduate cybersecurity student and research assistant at Loyola Chicago. I will be a Platform Security Intern at Tesla, in Fremont CA this summer! I love to do CTF's, blue team challenges, and malware analysis. ❤️
+Hi! I'm Eno Dynowski, an undergraduate cybersecurity student and research assistant at Loyola Chicago. I love to do CTF's, blue team challenges, and malware analysis. ❤️
 
 **What I've been up to:**
 
 - 🕵️‍♂️ Digital Forensics Challenges on [HTB](https://www.hackthebox.com/home/challenges/Forensics) and [Cyberdefenders](https://cyberdefenders.org/blueteam-ctf-challenges/)
-- 🛠 Some simple security tools written in Python
+- ⚡ Infosec internship at Tesla in Fremont, CA. 
 - 🚩 Capture the Flag competitions on the weekends
 - 🧐 Research regarding website fingerprinting
 
 **What I've been learning about:**
-- 💿 MFT and MBR parsing, FAT and NTFS filesystem structure
-- 🔒 Security frameworks, Policies/Procedures/Practices
-- 🐉 Ghidra ... slowly but surely
+- 🏗️ OT/ICS security
+- 🤖 Bash scripting, automation of secutity flows
+- 📄 Summer 2023 internship applications
 
 
 <!--

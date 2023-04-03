@@ -13,7 +13,7 @@
 
 <br />
 
-Hi! I'm Eno Dynowski, an graduating cybersecurity student and research assistant at Loyola Chicago. I love to do CTF's, blue team challenges, and malware analysis. ❤️
+Hi! I'm Eno Dynowski, a graduating cybersecurity student and research assistant at Loyola Chicago. I love to do CTF's, blue team challenges, and malware analysis. ❤️
 
 **What I've been up to:**
 
